@@ -1,0 +1,4 @@
+{"topic":"room:lobby", "event":"phx_join", "payload":{}, "ref":"1"}
+{"topic":"room:lobby", "event":"new_msg", "payload":{"body":"Message 1"}, "ref":"2"}
+{"topic":"room:lobby", "event":"new_msg", "payload":{"body":"Message 2"}, "ref":"3"}
+{"topic":"room:lobby", "event":"phx_heartbeat", "payload":{}, "ref":"4"}
